@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "management-consultant": {
+      "source": {
+        "source": "github",
+        "repo": "DogInfantry/claude-skill-management-consultant-B1"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "management-consultant@management-consultant": true
+  }
+}
