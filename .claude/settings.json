@@ -8,6 +8,6 @@
     }
   },
   "enabledPlugins": {
-    "management-consultant@management-consultant": true
+    "management-consultant@management-consultant": false
   }
 }
